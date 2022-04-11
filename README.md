@@ -295,4 +295,5 @@ KTWR 环球广播电台
 | 2130-2145 | 9975                     |
 | 2145-2150 | 9975（周一至周六）       |
 | 2150-2200 | 9975（周六）             |
-  [1]: https://www.fanmingming.com/media/sw-chinese-received-frequency-list.html
+
+[1]: https://www.fanmingming.com/media/sw-chinese-received-frequency-list.html
